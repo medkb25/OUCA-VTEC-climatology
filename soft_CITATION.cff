@@ -1,0 +1,60 @@
+# File: CITATION.cff
+cff-version: 1.2.0
+message: "If you use this software or dataset, please cite it with the metadata below."
+title: "OUCA Quiet-Time VTEC: Code and Reproducible Pipelines (2015–2025)"
+abstract: >
+  Reproducible pipelines to generate a ten-year quiet-time VTEC climatology for Oukaïmeden (OUCA), including daily screening (QSL–GIM20), 30-min
+  aggregations, figure scripts, and Zenodo-archived artifacts.
+type: software
+version: "v1.0.0"
+date-released: "2025-12-08"
+license: "MIT License"
+repository-code: "https://github.com/medkb25/OUCA_VTEC_climatology/"
+repository-artifact: "https://github.com/medkb25/OUCA_VTEC_climatology/releases/tag/v1.0.0"
+keywords:
+  - GNSS
+  - VTEC
+  - Morocco
+  - Oukaimeden
+  - Space weather
+  - Quiet-time baseline
+  - QSL-GIM20
+authors:
+  - family-names: "Kaab"
+    given-names: "Mohamed"
+    orcid: "https://orcid.org/0000-0001-5621-9579"
+    affiliation: "Sultan Moulay Sliman University, LICPM, National School of Applied Sciences, Béni Mellal, Morocco"
+  contact:
+  - name: "Mohamed Kaab"
+    email: "m.kaab@usms.ma"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.17857708"      
+  - type: url
+    value: "https://doi.org/10.5281/zenodo.17857708"
+preferred-citation:
+  type: article
+  title: "Quiet-Solar-Low (QSL) GNSS-based VTEC climatology over Oukaimeden (Morocco) across the Solar Cycle 24–25 transition"
+  authors:
+    - family-names: "Kaab"
+      given-names: "Mohamed"
+      orcid: "https://orcid.org/0000-0000-0000-0000"
+    - family-names: "Loutfi"
+      given-names: "Amal"
+    - family-names: "Benkhaldoun"
+      given-names: "Zouhair"
+    - family-names: "Boskri"
+      given-names: "Abdelkarim"
+  journal: "JGR: Space Physics"
+  year: 2026
+  start: 1
+  end: 20
+  doi: "10.xxxx/jgra.xxxxx"    # update after acceptance
+references:
+  - type: dataset
+    title: "Quiet-time GNSS-based VTEC climatology over Oukaimeden (Morocco), 2015–2025 (QSL–GIM20)"
+    authors:
+      - family-names: "Kaab"
+        given-names: "Mohamed"
+    year: 2025
+    doi: "10.5281/zenodo.17144340"
