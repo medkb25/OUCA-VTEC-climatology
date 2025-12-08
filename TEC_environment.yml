@@ -1,0 +1,19 @@
+### "environment.yml"
+
+"""yaml
+name: ouca_vtec
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - pytz
+  - pyarrow
+  - scipy
+  - jupyter
+  - ipykernel
+  - pip
