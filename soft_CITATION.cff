@@ -45,11 +45,11 @@ preferred-citation:
       given-names: "Zouhair"
     - family-names: "Boskri"
       given-names: "Abdelkarim"
-  journal: "JGR: Space Physics"
+  journal: "Advances in Space Research (ASR)"
   year: 2026
   start: 1
   end: 20
-  doi: "10.xxxx/jgra.xxxxx"    # update after acceptance
+  doi: "10.xxxx/asr.xxxxx"    # update after acceptance
 references:
   - type: dataset
     title: "Quiet-time GNSS-based VTEC climatology over Oukaimeden (Morocco), 2015–2025 (QSL–GIM20)"
