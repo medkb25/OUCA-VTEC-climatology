@@ -94,6 +94,7 @@ The environment includes:Python, NumPy, pandas, Matplotlib, Seaborn, pytz, pyarr
 If you use this code or the corresponding data products, please cite:
 - The Zenodo dataset:
 Kaab, M., et al. (2025). Quiet-time GNSS-based VTEC climatology over Oukaimeden (Morocco), 2015–2025 (QSL–GIM20) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.17144341
-- And, once published, the associated JGR: Space Physics article (full reference to be added).
+- And, once published, the associated Advances in Space Research (ASR) article (full reference to be added).
 ## License
+
 This repository is released under the MIT License. See the LICENSE file for details.
